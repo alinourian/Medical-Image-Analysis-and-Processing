@@ -23,8 +23,8 @@
  ### HW4
    1. Active Contour with Dynamic Programming
    2. Superpixel Segmentation with SLIC
-   3.1. Weighted Multitask Fuzzy C-means (WMT-FCM) Clustering
-   3.2. Correction Bias Field with FCM
+   3. (3.1.) Weighted Multitask Fuzzy C-means (WMT-FCM) Clustering
+   4. (3.2.) Correction Bias Field with FCM
 
  ### HW5
    1. Homography and Image Warping
